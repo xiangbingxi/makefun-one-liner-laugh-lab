@@ -1,8 +1,8 @@
 # One-Liner Laugh Lab
 
 [![Competition](https://make.fun/badge/u-suroso-69-one-liner-laugh-lab-6ccf3aae.svg)](https://make.fun/bounty/u-suroso-69-one-liner-laugh-lab-6ccf3aae)
-[![Rank](https://make.fun/u-suroso-69-one-liner-laugh-lab-6ccf3aae/xiangbingxi/makefun-one-liner-laugh-lab/rank.svg)](https://make.fun/bounty/u-suroso-69-one-liner-laugh-lab-6ccf3aae)
-[![Reward](https://make.fun/u-suroso-69-one-liner-laugh-lab-6ccf3aae/xiangbingxi/makefun-one-liner-laugh-lab/reward.svg)](https://make.fun/bounty/u-suroso-69-one-liner-laugh-lab-6ccf3aae)
+[![Rank](https://make.fun/badge/u-suroso-69-one-liner-laugh-lab-6ccf3aae/xiangbingxi/makefun-one-liner-laugh-lab/rank.svg)](https://make.fun/bounty/u-suroso-69-one-liner-laugh-lab-6ccf3aae)
+[![Reward](https://make.fun/badge/u-suroso-69-one-liner-laugh-lab-6ccf3aae/xiangbingxi/makefun-one-liner-laugh-lab/reward.svg)](https://make.fun/bounty/u-suroso-69-one-liner-laugh-lab-6ccf3aae)
 
 Entry for the [One-Liner Laugh Lab](https://make.fun/bounty/u-suroso-69-one-liner-laugh-lab-6ccf3aae) competition on make.fun.
 
